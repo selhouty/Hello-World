@@ -1,1 +1,3 @@
 # Hello-World
+
+This is my first day on Git Hub! Excited about the future... 
